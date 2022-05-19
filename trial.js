@@ -196,8 +196,8 @@ function myfunc() {
         (a7 == 'X' || a7 == '0') && (a8 == 'X' ||
             a8 == '0') && (a9 == 'X' || a9 == '0')) {
         document.getElementById('print')
-            .innerHTML = "Match Tie";
-        window.alert('Match Tie');
+            .innerHTML = "Draw";
+        window.alert('Draw');
     } else {
 
 
