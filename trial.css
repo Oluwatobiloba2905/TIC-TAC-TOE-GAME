@@ -1,0 +1,136 @@
+   /* CSS Code */
+   /* Heading */
+   body {
+       background-color: black;
+
+   }
+
+   #main {
+       color: orangered;
+       font-size: 45px;
+   }
+
+   /* 3*3 Grid */
+   #a1,
+   #a2,
+   #a3,
+   #a4,
+   #a5,
+   #a6,
+   #a7,
+   #a8,
+   #a9 {
+       width: 80px;
+       height: 52px;
+       /* margin: auto; */
+       border: 1px solid gray;
+       border-radius: 6px;
+       font-size: 30px;
+       text-align: center;
+   }
+
+
+   #a1,
+   #a2,
+   #a3,
+   #a4,
+   #a5,
+   #a6,
+   #a7,
+   #a8,
+   #a9 {
+       background-color: rgb(12, 12, 70);
+       color: firebrick;
+   }
+
+   /* Reset Button */
+   #but {
+       box-sizing: border-box;
+       width: 100px;
+       height: 40px;
+       border: 3px solid dodgerblue;
+       /* margin: auto; */
+       border-radius: 10px;
+       font-family: Verdana,
+           Geneva, Tahoma, sans-serif;
+
+       background-color: rgb(255, 255, 255);
+       color: rgb(0, 0, 0);
+       font-size: 20px;
+       cursor: pointer;
+
+   }
+
+   #but:hover {
+       background-color: rgb(1, 1, 70);
+       color: white;
+       border-color: green;
+   }
+
+   /* Players turn  */
+   #print {
+       font-family: Verdana,
+           Geneva, Tahoma, sans-serif;
+
+       color: dodgerblue;
+       font-size: 20px;
+   }
+
+   /* Main Container */
+   #main {
+       text-align: center;
+   }
+
+   /* Game Instruction Text */
+   #ins {
+       font-family: Verdana,
+           Geneva, Tahoma, sans-serif;
+
+       color: dodgerblue;
+       font-size: 17px;
+   }
+
+   #a1:hover {
+       background-color: white;
+       color: black;
+   }
+
+   #a2:hover {
+       background-color: white;
+       color: black;
+   }
+
+   #a3:hover {
+       background-color: white;
+       color: black;
+   }
+
+   #a4:hover {
+       background-color: white;
+       color: black;
+   }
+
+   #a5:hover {
+       background-color: white;
+       color: black;
+   }
+
+   #a6:hover {
+       background-color: white;
+       color: black;
+   }
+
+   #a7:hover {
+       background-color: white;
+       color: black;
+   }
+
+   #a8:hover {
+       background-color: white;
+       color: black;
+   }
+
+   #a9:hover {
+       background-color: white;
+       color: black;
+   }
