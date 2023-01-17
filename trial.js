@@ -1,7 +1,7 @@
 function myfunc() {
 
-    var 
-   a1, a2, a3, a4, a5, a6, a7, a8, a9;
+    var
+        a1, a2, a3, a4, a5, a6, a7, a8, a9;
     a1 = document.getElementById("a1").value;
     a2 = document.getElementById("a2").value;
     a3 = document.getElementById("a3").value;

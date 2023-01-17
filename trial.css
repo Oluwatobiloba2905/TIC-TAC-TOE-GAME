@@ -93,46 +93,56 @@
    #a1:hover {
        background-color: white;
        color: black;
+       border: 0.5% red;
    }
 
    #a2:hover {
        background-color: white;
        color: black;
+       border: 0.5% red;
    }
 
    #a3:hover {
        background-color: white;
        color: black;
+       border: 0.5% red;
    }
 
    #a4:hover {
        background-color: white;
        color: black;
+       border: 0.5% red;
    }
 
    #a5:hover {
        background-color: white;
        color: black;
+       border: 0.5% red;
    }
+
 
    #a6:hover {
        background-color: white;
        color: black;
+       border: 3% red;
    }
 
    #a7:hover {
        background-color: white;
        color: black;
+       border: 0.5% red;
    }
 
    #a8:hover {
        background-color: white;
        color: black;
+       border: 0.5% red;
    }
 
    #a9:hover {
        background-color: white;
        color: black;
+       border: 0.5% blue;
    }
 
    .copyright {
