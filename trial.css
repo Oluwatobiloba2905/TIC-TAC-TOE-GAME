@@ -40,7 +40,7 @@
    #a8,
    #a9 {
        background-color: rgb(12, 12, 70);
-       color: firebrick;
+       color: white;
    }
 
    /* Reset Button */
@@ -92,44 +92,44 @@
 
    #a1:hover {
        background-color: white;
-       color: black;
+       color: royalblue;
        border: 3px  solid red;
    }
 
    #a2:hover {
        background-color: white;
-       color: black;
+       color: blue;
        border: 3px  solid red;
    }
 
    #a3:hover {
        background-color: white;
-       color: black;
+       color: darkorange;
        border: 3px  solid red;
    }
 
    #a4:hover {
        background-color: white;
-       color: black;
+       color: darkmagenta;
        border: 3px  solid red;
    }
 
    #a5:hover {
        background-color: white;
-       color: black;
+       color: blue;
        border: 3px  solid red;
    }
 
 
    #a6:hover {
        background-color: white;
-       color: black;
+       color: darkgoldenrod;
        border: 3px solid red;
    }
 
    #a7:hover {
        background-color: white;
-       color: black;
+       color: darkgrey;
        border: 3px  solid red;
    }
 
@@ -141,7 +141,7 @@
 
    #a9:hover {
        background-color: white;
-       color: black;
+       color: darkred;
        border: 3px  solid red;
    }
 
